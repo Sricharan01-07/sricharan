@@ -1,0 +1,6 @@
+{
+  "name": "Aero City Flights",
+  "description": "Navigate a realistic airplane through procedurally generated skyscrapers in an endless flappy-bird style city environment with particle explosion effects on collision.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
